@@ -4,7 +4,11 @@ An end-to-end Natural Language Processing (NLP) web application that predicts wh
 
 ## 🚀 Live Demo
 
-Coming Soon
+🌐 https://sentiment-analysis-dashboard-l4ltqjz5uxfrbrbfxnvv8z.streamlit.app/
+
+## 📂 GitHub Repository
+
+https://github.com/zasia-farzin-siraz/Sentiment-Analysis-Dashboard
 
 ## 📌 Features
 
